@@ -1,12 +1,13 @@
 ## Hello, I'm Federico Bennasciutti! 👋 
 
-A technology enthusiast with a special love for AI, Robotics, and Space Exploration🚀! 
+I am a technology enthusiast with a special love for AI, Robotics, and Space Exploration🚀.
 
 ### 💼 Current Work
-Presently working as a Roboticist at Intermodalics. In the pursuit of bringing robots to uncharted territories.
+Presently working as a Roboticist at Intermodalics, bringing robots to uncharted territories.
 
 ### 🎓 GitHub Journey
 This is my private Github account which I've started during my time at [Unibo](https://www.unibo.it/), [Tongji](http://www.tongji.edu.cn/), and [KTH](https://www.kth.se/). 
+
 Now it mainly contains coursework and projects I completed during my university degrees, and additional personal projects.
 
 ### 📌 Note
